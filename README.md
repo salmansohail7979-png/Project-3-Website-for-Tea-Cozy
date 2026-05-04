@@ -67,8 +67,8 @@ bedford-tea-shop/
 
 👤 Student
 
-**Student Name: [Salman Sohail]
-**
+Student Name: [Salman Sohail]
+
 ---
 
 Roll Number: [Sohail Mustafa]
