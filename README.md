@@ -27,9 +27,6 @@ A code editor (such as VS Code) to view the source code.
 
 Clone the repository:
 
-Bash
-git clone https://github.com/your-username/bedford-tea-shop.git
-
 2. Navigate to the project directory:
 
 Bash
